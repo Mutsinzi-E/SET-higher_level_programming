@@ -1,3 +1,3 @@
-# JavaScript - Warm up
+# 0x12 - JavaScript Warm Up
 
-This project contains introductory JavaScript exercises completed as part of the ALX Software Engineering program.
+This project contains introductory JavaScript scripts covering constants, arguments, loops, and basic programming concepts.
